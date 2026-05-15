@@ -26,4 +26,5 @@ ES: Además del análisis de datos, tengo experiencia en comunicación visual �
 [LinkedIn](https://www.linkedin.com/in/jacob-ladino-santander-8b68371b5/)
 
 Email: jacob.ladinosant@gmail.com
+
 "Data without context is just noise. Data with a business question is insight."
