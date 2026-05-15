@@ -1,7 +1,7 @@
 Netflix Content Strategy Analysis 🎬
 Análisis de Estrategia de Contenido en Netflix
 
-🇬🇧 ENGLISH VERSION
+## 🇬🇧 ENGLISH VERSION
 The Business Problem
 As streaming platforms compete for global audiences, a key strategic question emerges:
 Which countries, genres, and content types dominate Netflix — and what does that mean for content investment decisions?
@@ -21,7 +21,7 @@ Dashboard
 Stack
 Python · Pandas · Matplotlib · Google Looker Studio · Kaggle Dataset
 
-🇪🇸 VERSIÓN EN ESPAÑOL
+## 🇪🇸 VERSIÓN EN ESPAÑOL
 El Problema de Negocio
 A medida que las plataformas de streaming compiten por audiencias globales, surge una pregunta estratégica clave:
 ¿Qué países, géneros y tipos de contenido dominan Netflix — y qué implica eso para las decisiones de inversión en contenido?
