@@ -1,5 +1,5 @@
-Jacob Ladino Santander — Data Analytics Portfolio
-EN: Data analyst with a background in Business Administration. I translate complex data into clear business decisions using Python, SQL, and Power BI.
+# Jacob Ladino Santander — Data Analytics Portfolio
+## EN: Data analyst with a background in Business Administration. I translate complex data into clear business decisions using Python, SQL, and Power BI.
 ES: Analista de datos con formación en Administración de Empresas. Transformo datos complejos en decisiones de negocio claras usando Python, SQL y Power BI.
 
 🛠️ Tech Stack
