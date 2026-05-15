@@ -1,7 +1,7 @@
 Emerging Tech Skills: What the Job Market Actually Demands 💻
 Habilidades Tecnológicas Emergentes: Lo Que el Mercado Laboral Realmente Demanda
 
-🇬🇧 ENGLISH VERSION
+## 🇬🇧 ENGLISH VERSION
 The Business Problem
 Digital transformation is reshaping hiring strategies worldwide. But for professionals and companies deciding where to invest in training:
 Which programming languages and databases will actually matter in the job market — today and in the near future?
@@ -24,7 +24,7 @@ Python · Pandas · Matplotlib · Google Looker Studio · Stack Overflow Survey 
 Course
 IBM Data Analyst Professional Certificate — Coursera (December 2024)
 
-🇪🇸 VERSIÓN EN ESPAÑOL
+# # 🇪🇸 VERSIÓN EN ESPAÑOL
 El Problema de Negocio
 La transformación digital está redefiniendo las estrategias de contratación a nivel global. Pero para los profesionales y empresas que deciden dónde invertir en capacitación:
 ¿Qué lenguajes de programación y bases de datos realmente importarán en el mercado laboral — hoy y en el futuro cercano?
